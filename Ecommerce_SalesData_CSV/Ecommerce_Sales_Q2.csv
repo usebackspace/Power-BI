@@ -1,0 +1,21 @@
+OrderId,Date,Product,Category,Region,Sales,Quantity,Profit
+ORD021,2026-04-03,Tablet,Electronics,West,32000,2,4800
+ORD022,2026-04-08,Washing Machine,Appliances,North,42000,1,6300
+ORD023,2026-04-12,Earbuds,Electronics,East,5500,5,1100
+ORD024,2026-04-17,Coffee Table,Furniture,South,15000,2,3000
+ORD025,2026-04-21,Kurta,Fashion,West,4000,4,800
+ORD026,2026-04-26,Printer,Electronics,North,18000,2,2700
+ORD027,2026-05-02,Air Fryer,Appliances,East,8500,2,1700
+ORD028,2026-05-07,Handbag,Fashion,South,6500,3,1300
+ORD029,2026-05-11,Study Table,Furniture,West,22000,1,4400
+ORD030,2026-05-16,Power Bank,Electronics,North,3500,5,700
+ORD031,2026-05-20,Saree,Fashion,East,9000,2,1800
+ORD032,2026-05-25,Refrigerator,Appliances,South,52000,1,7800
+ORD033,2026-06-01,Gaming Mouse,Electronics,West,4500,4,900
+ORD034,2026-06-06,Wardrobe,Furniture,North,30000,1,6000
+ORD035,2026-06-12,Casual Shoes,Fashion,East,7500,3,1500
+ORD036,2026-06-17,Toaster,Appliances,South,4000,2,800
+ORD037,2026-06-21,Webcam,Electronics,West,6000,3,1200
+ORD038,2026-06-25,Bookshelf,Furniture,North,11000,2,2200
+ORD039,2026-06-28,Hoodie,Fashion,East,5500,2,1100
+ORD040,2026-06-30,Vacuum Cleaner,Appliances,South,16000,1,2400

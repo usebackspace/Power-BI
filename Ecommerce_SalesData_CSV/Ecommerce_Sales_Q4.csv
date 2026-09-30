@@ -1,0 +1,21 @@
+OrderId,Date,Product,Category,Region,Sales,Quantity,Profit
+ORD061,2026-10-03,Smartphone,Electronics,East,62000,3,9000
+ORD062,2026-10-08,Laptop,Electronics,South,92000,2,11500
+ORD063,2026-10-12,Earbuds,Electronics,West,6500,6,1300
+ORD064,2026-10-17,Sofa,Furniture,North,45000,1,9000
+ORD065,2026-10-21,Sneakers,Fashion,South,12000,4,2400
+ORD066,2026-10-26,T-Shirt,Fashion,East,4500,8,900
+ORD067,2026-11-02,Air Conditioner,Appliances,West,48000,1,7200
+ORD068,2026-11-07,Backpack,Fashion,North,5500,4,1100
+ORD069,2026-11-11,Gaming Monitor,Electronics,South,26000,2,5200
+ORD070,2026-11-16,Dining Table,Furniture,East,36000,1,7200
+ORD071,2026-11-20,Wireless Mouse,Electronics,West,3000,6,600
+ORD072,2026-11-25,Saree,Fashion,North,10000,2,2000
+ORD073,2026-12-01,Refrigerator,Appliances,South,58000,1,8700
+ORD074,2026-12-06,Office Desk,Furniture,East,19000,2,3800
+ORD075,2026-12-12,Winter Jacket,Fashion,West,11000,2,2200
+ORD076,2026-12-17,Mixer Grinder,Appliances,North,7000,2,1400
+ORD077,2026-12-21,Smartwatch,Electronics,South,16500,2,3300
+ORD078,2026-12-25,Recliner,Furniture,East,28000,1,5600
+ORD079,2026-12-28,Formal Shoes,Fashion,North,9000,3,1800
+ORD080,2026-12-31,Washing Machine,Appliances,West,44000,1,6600

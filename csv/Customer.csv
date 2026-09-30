@@ -1,0 +1,22 @@
+CustomerID,CustomerName,Gender,Age,City,State,CustomerSegment,JoinDate
+C001,Aarav Sharma,M,28,Mumbai,Maharashtra,Regular,15-01-2024
+C002,Ananya Patel,Female,32,Ahmedabad,Gujarat,Premium,10-02-2024
+C003,Rohan Mehta,Male,25,Pune,Maharashtra,Regular,05-03-2024
+C004,Priya Singh,Female,29,Delhi,Delhi,Premium,20-03-2024
+C005,Vikram Kumar,M,35,Bengaluru,Karnataka,Regular,12-04-2024
+C006,Neha Joshi,Female,27,Jaipur,Rajasthan,Regular,08-05-2024
+C007,Arjun Nair,Male,31,Kochi,Kerala,Premium,25-05-2024
+C008,Ishita Rao,Female,24,Hyderabad,Telangana,New,10-06-2024
+C009,Karan Shah,Male,38,Surat,Gujarat,Premium,01-07-2024
+C010,Meera Iyer,Female,30,Chennai,Tamil Nadu,Regular,15-07-2024
+C011,Raj Malhotra,Male,42,Delhi,Delhi,Premium,05-08-2024
+C012,Sneha Kapoor,Female,26,Lucknow,Uttar Pradesh,New,20-08-2024
+C013,Aditya Verma,Male,33,Indore,Madhya Pradesh,Regular,01-09-2024
+C014,Kavya Reddy,F,29,Hyderabad,Telangana,Premium,15-09-2024
+C015,Manish Gupta,Male,37,Noida,Uttar Pradesh,Regular,01-10-2024
+C016,Simran Kaur,F,23,Amritsar,Punjab,New,18-10-2024
+C017,Nikhil Desai,Male,34,Vadodara,Gujarat,Regular,02-11-2024
+C018,Pooja Menon,F,31,Kochi,Kerala,Premium,15-11-2024
+C019,Dev Agarwal,Male,28,Kolkata,West Bengal,New,01-12-2024
+C020,Riya Choudhary,Female,36,Jaipur,Rajasthan,Regular,10-12-2024
+,,,,,,,

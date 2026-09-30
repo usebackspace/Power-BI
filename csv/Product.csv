@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,SubCategory,Brand,UnitCost,SellingPrice
+P001,Wireless Mouse,Electronics,Accessories,Logitech,450,700
+P002,Mechanical Keyboard,Electronics,Accessories,Redragon,1800,2800
+P003,Bluetooth Headphones,Electronics,Audio,Boat,900,1500
+P004,Smart Watch,Electronics,Wearables,Noise,2200,3500
+P005,Laptop Backpack,Accessories,Bags,Skybags,800,1400
+P006,Running Shoes,Fashion,Footwear,Nike,2500,4200
+P007,Cotton T-Shirt,Fashion,Clothing,Puma,500,900
+P008,Denim Jeans,Fashion,Clothing,Levis,1200,2200
+P009,Coffee Maker,Home & Kitchen,Appliances,Philips,1800,2900
+P010,Electric Kettle,Home & Kitchen,Appliances,Prestige,900,1500
+P011,Office Chair,Furniture,Chairs,Featherlite,5500,8500
+P012,Study Table,Furniture,Tables,Wakefit,4000,6500
+P013,Water Bottle,Home & Kitchen,Kitchen,Milton,300,550
+P014,Yoga Mat,Sports,Fitness,AmazonBasics,500,850
+P015,Cricket Bat,Sports,Cricket,SS,1800,3000
+P016,Football,Sports,Football,Nivia,600,1000
+P017,Smartphone,Electronics,Mobile,Samsung,15000,22000
+P018,Power Bank,Electronics,Accessories,Mi,900,1400
+P019,LED Monitor,Electronics,Computers,Dell,7000,10500
+P020,USB-C Cable,Electronics,Accessories,Anker,400,700
